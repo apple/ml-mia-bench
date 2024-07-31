@@ -12,7 +12,7 @@ Figure 1: An example from MIA-Bench, featuring an image and a complex instructio
 
 **Step 1**: 
 
-- Install openai api following its [official document](https://platform.openai.com/docs/api-reference/introduction) and prepare your api for GPT-4o.
+- Install OpenAI API following its [official document](https://platform.openai.com/docs/api-reference/introduction) and prepare your API for GPT-4o.
 
 **Step 2**: 
 - Run inference on the [benchmark](instruction_benchmark_all.json) using your MLLM and store the responses in ```jsonl``` format. Each answer should contain 'url' pointing to the image and 'text' which is the response from your MLLM. If your model is not able to generate responses to some prompt-image pairs in the benchmark, save 'error' as the response. An example file can be found [here](example_inference_result.jsonl).
