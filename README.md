@@ -1,4 +1,4 @@
-# [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2407.01509)
+# [[ICLR 2025]MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2407.01509)
 
 <font size=7><div align='center' > [[📖 Paper](https://arxiv.org/pdf/2407.01509)]  </div></font>
 
